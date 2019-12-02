@@ -4,4 +4,4 @@ Leetcode : Isomorphic Strings
 - 링크 : https://leetcode.com/problems/isomorphic-strings/
 - 결과 :
 
-![Alt text](/isomorphic-strings-submission.PNG "isomorphic-strings-submission.PNG")
+![Alt text](/src/main/java/isomorphic_strings/isomorphic-strings-submission.PNG "isomorphic-strings-submission.PNG")
